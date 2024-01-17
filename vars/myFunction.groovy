@@ -1,4 +1,4 @@
 // vars/myFunction.groovy
-def call('name') {
+def call(name) {
     echo "Hello ${name} from myFunction!"
 }
