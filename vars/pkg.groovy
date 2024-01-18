@@ -1,3 +1,3 @@
 def pkg() {
-  sh "mvn package"
+  mvn package
 }
